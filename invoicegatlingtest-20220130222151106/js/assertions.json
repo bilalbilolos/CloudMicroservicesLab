@@ -1,0 +1,10 @@
+{
+  "simulation": "InvoiceGatlingTest",
+  "simulationId": "invoicegatlingtest",
+  "start": 1643581311106,
+  "description": "",
+  "scenarios": ["Users"],
+  "assertions": [
+
+  ]
+}

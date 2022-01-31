@@ -1,0 +1,17 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["gateway", "invoice", "notification"],
+    "directoryPath": "../",
+    "clusteredDbApps": ["notification"],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "YmE2MDRkZGFhM2U2ZjQzMTFiZWE3YWJkMTlkYTUxMmM4ZGYwYzk2ODZiOWNkODgxMjFiNmVhODY5ZWI5ZDlmMzI1NjlhZDEzNTNiMDJlYTNjNmY1MGQ5NDEwNjYzOGJlNmJmNw==",
+    "dockerRepositoryName": "bilolos",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "store",
+    "kubernetesServiceType": "LoadBalancer",
+    "kubernetesUseDynamicStorage": false,
+    "ingressDomain": "",
+    "monitoring": "prometheus",
+    "istio": false
+  }
+}
